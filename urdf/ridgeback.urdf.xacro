@@ -329,4 +329,5 @@
 
   <!-- Optional custom includes. -->
   <xacro:include filename="$(optenv RIDGEBACK_URDF_EXTRAS empty.urdf)" />
+  <xacro:include filename="$(optenv RIDGEBACK_URDF_EXTRAS m1013.urdf)" />
 </robot>
